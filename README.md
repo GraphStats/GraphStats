@@ -5,7 +5,6 @@
 
 🎯 Passionate about coding, automation, and creative web projects.
 
-![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ---
 

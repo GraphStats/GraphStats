@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @GraphStats
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on @PowerDevStats
+## 👋 Hi, I'm GraphStats
 
-## GitHub Stats
-![GraphStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraphStats&show_icons=true&theme=radical)
+Welcome to my GitHub profile! I'm passionate about coding, automation, and creative projects 🚀.
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GraphStats&layout=compact&theme=radical)
+---
 
-## Contributions
-![GraphStats's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GraphStats&theme=react-dark&hide_border=true&area=true)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphstats&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graphstats&layout=compact&theme=radical)
+
+---
+
+### 🗓️ Contribution Activity
+
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=graphstats&theme=react-dark&area=true&hide_border=true)
+
+---
+
+### 📫 Contact Me
+
+Find me here:
+- 💬 Discord: YourUsername#1234
+- 🌐 Website: [fastcount.vercel.app](https://fastcount.vercel.app)

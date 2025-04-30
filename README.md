@@ -21,5 +21,5 @@ Welcome to my GitHub profile! I'm passionate about coding, automation, and creat
 ### 📫 Contact Me
 
 Find me here:
-- 💬 Discord: YourUsername#1234
+- 💬 Discord: Statify (fastcount)
 - 🌐 Website: [fastcount.vercel.app](https://fastcount.vercel.app)

@@ -20,7 +20,7 @@
 
 ## 📈 Contribution Activity
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=graphstats&theme=react-dark&hide_border=true&area=true)
+![Graph](https://github-activity-graph.vercel.app/graph?username=graphstats&theme=react-dark&area=true&hide_border=true)
 
 ---
 

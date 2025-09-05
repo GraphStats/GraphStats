@@ -35,7 +35,7 @@
 
 ## 🚀 Projects
 
-- 🔥 [FastCount](https://fastcount.vercel.app) – Live YouTube counters with style
+- 🔥 [DockyCount](https://fastcount.vercel.app) – Live YouTube counters with style
 - 🎵 Music Streaming Bot (soon)
 - 🌐 Self-hosted control panels and automation tools
 

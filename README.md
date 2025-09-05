@@ -44,7 +44,7 @@
 ## 📬 Contact Me
 
 - 💬 Discord: `Statify (fastcount)`
-- 🌐 Website: [fastcount.vercel.app](https://fastcount.vercel.app)
+- 🌐 Website: [count.docky.cloudns.pro](https://count.docky.cloudns.pro)
 
 ---
 

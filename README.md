@@ -5,7 +5,6 @@
 
 🎯 Passionate about coding, automation, and creative web projects.
 
-
 ---
 
 ## 📊 GitHub Stats

@@ -11,6 +11,8 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GraphStats&theme=dark)](https://git.io/streak-stats)
+
 ![GraphStats' GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphstats&show_icons=true&theme=react&hide_border=true)
 
 ### 🏆 Most Used Languages

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm GraphStats</h1>
+<h1 align="center">Hi 👋, I'm Drayko</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=graphstats&label=Profile%20views&color=ff9100&style=flat" alt="GraphStats profile views" />
 </p>
@@ -12,12 +12,6 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GraphStats&theme=dark)](https://git.io/streak-stats)
-
-![GraphStats' GitHub Stats](https://github-readme-stats.vercel.app/api?username=graphstats&show_icons=true&theme=react&hide_border=true)
-
-### 🏆 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphstats&layout=compact&theme=react&hide_border=true)
 
 ---
 
@@ -38,19 +32,16 @@
 
 ## 🚀 Projects
 
-- 🔥 [DockyCount](https://dockycount.vercel.app) – Live YouTube counters with style
-- 🎵 Music Streaming Bot (soon)
-- 🌐 Self-hosted control panels and automation tools
+- 🔥 Docky
+- [OpenPanel](https://github.com/OpenPanelGit)
 
 ---
 
 ## 📬 Contact Me
 
-- 💬 Discord: `Statify (fastcount)`
-- 🌐 Website: [count.docky.cloudns.pro](https://count.docky.cloudns.pro)
+- 💬 Discord: `! [DEV] Drayko (devdrayko)`
+- 🌐 Website: [drayko.xyz](https://drayko.xyz)
 
 ---
 
 > “Consistency is the key to growth.” 🚀
-
-<img width="379" height="100" alt="ascii-art-text(3)" src="https://github.com/user-attachments/assets/564426a8-fd09-4527-afc9-710de89e0dc9" />

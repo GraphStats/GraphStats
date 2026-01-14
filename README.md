@@ -39,6 +39,13 @@
 
 ## 📬 Contact Me
 
+- 💬 Discord: `! [DEV] Drayko (devdrayko)`
+- 🌐 Website: [drayko.xyz](https://drayko.xyz)
+
+---
+
+> “Consistency is the key to growth.” 🚀
+
 
 <svg width="200" height="200">
   <g>
@@ -48,10 +55,3 @@
     <circle cx="100" cy="100" r="30" />
   </g>
 </svg>
-
-- 💬 Discord: `! [DEV] Drayko (devdrayko)`
-- 🌐 Website: [drayko.xyz](https://drayko.xyz)
-
----
-
-> “Consistency is the key to growth.” 🚀

@@ -39,6 +39,16 @@
 
 ## 📬 Contact Me
 
+
+<svg width="200" height="200">
+  <g>
+    <ellipse cx="100" cy="100" rx="160" ry="60" />
+    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
+    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(120, 100, 100)" />
+    <circle cx="100" cy="100" r="30" />
+  </g>
+</svg>
+
 - 💬 Discord: `! [DEV] Drayko (devdrayko)`
 - 🌐 Website: [drayko.xyz](https://drayko.xyz)
 

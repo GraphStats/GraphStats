@@ -30,6 +30,12 @@
 
 ---
 
+## Stats
+
+<iframe src="https://preview-repo-stats-embeds-kzmnyputl9h4q4i61xrl.vusercontent.net/u/embed/GraphStats" width="100%" height="450" style="border:none;border-radius:8px;" allowtransparency="true"></iframe>
+
+---
+
 ## 🚀 Projects
 
 - 🔥 Docky

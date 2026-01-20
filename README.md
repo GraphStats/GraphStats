@@ -21,6 +21,12 @@
 
 ---
 
+## Stats
+
+<iframe src="https://repostats-beta.vercel.app/u/embed/GraphStats" width="100%" height="450" style="border:none;border-radius:8px;" allowtransparency="true"></iframe>
+
+---
+
 ## 🧰 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

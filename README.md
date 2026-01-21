@@ -23,7 +23,7 @@
 
 ## Stats
 
-<iframe src="https://demo-kzmp6ct0keskqlwk3bre.vusercontent.net/u/embed/GraphStats" width="100%" height="450" style="border:none;border-radius:8px;" allowtransparency="true"></iframe>
+![Stats](https://demo-kzmp6ct0keskqlwk3bre.vusercontent.net/u/embed/GraphStats)
 
 ---
 

@@ -38,7 +38,7 @@
 
 ## 🚀 Projects
 
-- 🔥 Docky
+- [OpenDocky](https://github.com/OpenDocky)
 - [OpenPanel](https://github.com/OpenPanelGit)
 
 ---

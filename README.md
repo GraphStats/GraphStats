@@ -18,8 +18,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
+---
+
 ### ⚙️ Backend & Runtime
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
 
 ### 🔁 Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -27,9 +31,13 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white)
 
+---
+
 ### ☁️ Hosting & Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
+
+---
 
 ### 🖥️ Virtualisation & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)

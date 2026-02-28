@@ -6,25 +6,6 @@
 
 🎯 Passionate about coding, automation, and creative web projects.
 
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GraphStats&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 📈 Contribution Activity
-
-![Graph](https://github-activity-graph.vercel.app/graph?username=graphstats&theme=react-dark&area=true&hide_border=true)
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GraphStats/DraykoRedirect,GraphStats/YTTracker-code,OpenDocky/DockyCount,OpenDocky/DockyAI,OpenDocky/DockyCalendar,CodePilot-dev/CodePilot&type=date&legend=top-left)](https://www.star-history.com/#GraphStats/DraykoRedirect&GraphStats/YTTracker-code&OpenDocky/DockyCount&OpenDocky/DockyAI&OpenDocky/DockyCalendar&CodePilot-dev/CodePilot&type=date&legend=top-left)
-
 ---
 
 ## 🧰 Tech Stack
@@ -45,7 +26,7 @@
 
 ## 📬 Contact Me
 
-- 💬 Discord: `! [DEV] Drayko (devdrayko)`
+- 💬 Discord: `! [DEV] Drayko (dev_drayko)`
 - 🌐 Website: [drayko.xyz](https://drayko.xyz)
 
 ---

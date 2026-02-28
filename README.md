@@ -19,6 +19,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-10539F?style=flat&logo=pterodactyl&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---

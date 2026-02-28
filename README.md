@@ -53,6 +53,12 @@
 
 ---
 
+## 🔼 Stats
+![Drayko’s GitHub Stats](https://github-readme-stats-kappa-red-11.vercel.app/api?username=drayko&show_icons=true&theme=dark)
+
+---
+
+
 ## 📬 Contact Me
 
 - 💬 Discord: `! [DEV] Drayko (dev_drayko)`

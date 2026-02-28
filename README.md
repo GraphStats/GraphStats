@@ -23,7 +23,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GraphStats/GitPainter,GraphStats/v4-portfolio,GraphStats/DraykoRedirect,GraphStats/PanelZer0,GraphStats/GitGraph,GraphStats/Classify,GraphStats/YTTracker-code,GraphStats/Routly,GraphStats/444-Count,OpenDocky/DockyStatus,OpenDocky/DockyCount,OpenDocky/DockyAI,OpenDocky/DockyCalendar,GraphyHost/GraphyHost-V2,CodePilot-dev/CodePilot&type=date&legend=top-left)](https://www.star-history.com/#GraphStats/GitPainter&GraphStats/v4-portfolio&GraphStats/DraykoRedirect&GraphStats/PanelZer0&GraphStats/GitGraph&GraphStats/Classify&GraphStats/YTTracker-code&GraphStats/Routly&GraphStats/444-Count&OpenDocky/DockyStatus&OpenDocky/DockyCount&OpenDocky/DockyAI&OpenDocky/DockyCalendar&GraphyHost/GraphyHost-V2&CodePilot-dev/CodePilot&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=GraphStats/v4-portfolio,GraphStats/DraykoRedirect,GraphStats/YTTracker-code,OpenDocky/DockyCount,OpenDocky/DockyAI,OpenDocky/DockyCalendar,CodePilot-dev/CodePilot&type=date&legend=top-left)](https://www.star-history.com/#GraphStats/v4-portfolio&GraphStats/DraykoRedirect&GraphStats/YTTracker-code&OpenDocky/DockyCount&OpenDocky/DockyAI&OpenDocky/DockyCalendar&CodePilot-dev/CodePilot&type=date&legend=top-left)
 
 ---
 

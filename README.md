@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Drayko</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=graphstats&label=Profile%20views&color=ff9100&style=flat" alt="GraphStats profile views" />
+  <img src="https://komarev.com/ghpvc/?username=drayko&label=Profile%20views&color=ff9100&style=flat" alt="Drayko profile views" />
 </p>
 
 🎯 Passionate about coding, automation, and creative web projects.

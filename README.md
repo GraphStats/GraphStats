@@ -60,7 +60,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GraphStats/YTTracker-code,GraphStats/DraykoRedirect,OpenDocky/DockyCalendar,OpenDocky/DockyAI,OpenDocky/DockyCount,OpenDocky/DockyStatus&type=date&legend=top-left)](https://www.star-history.com/#GraphStats/YTTracker-code&GraphStats/DraykoRedirect&OpenDocky/DockyCalendar&OpenDocky/DockyAI&OpenDocky/DockyCount&OpenDocky/DockyStatus&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=GraphStats/YTTracker-code,GraphStats/DraykoRedirect,OpenDocky/DockyCalendar,OpenDocky/DockyAI,OpenDocky/DockyCount,OpenDocky/DockyStatus&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#GraphStats/YTTracker-code&GraphStats/DraykoRedirect&OpenDocky/DockyCalendar&OpenDocky/DockyAI&OpenDocky/DockyCount&OpenDocky/DockyStatus&type=timeline&logscale&legend=top-left)
 
 ---
 

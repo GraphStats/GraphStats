@@ -36,6 +36,7 @@
 ### ☁️ Hosting & Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 
 ---
 

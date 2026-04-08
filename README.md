@@ -62,7 +62,7 @@
 
 ## ✨ Star History
 
-(SOON)(I'm too lazy right now lol)
+(SOON) (I'm too lazy right now lol)
 
 ---
 

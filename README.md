@@ -56,9 +56,8 @@
 ---
 
 ## 🚀 Projects
-- [OpenDocky](https://github.com/OpenDocky)
-- [OpenPanel](https://github.com/OpenPanelGit)
-- 
+- Personal project only at the moment
+
 ---
 
 ## 🔼 Stats

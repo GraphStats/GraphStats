@@ -81,6 +81,10 @@
 
 ---
 
+**I'm always learning new technologies to stay at the forefront of innovation**
+
+---
+
 ## 🚀 Projects
 - Personal project only at the moment
 

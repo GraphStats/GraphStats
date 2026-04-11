@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drayko</h1>
+<h1 align="center">Hi 👋, I'm ddrayko (aka Drayko)</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=drayko&label=Profile%20views&color=ff9100&style=flat" alt="Drayko profile views" />
 </p>

@@ -15,12 +15,25 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
 ### ⚙️ Backend & Runtime
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+---
+
+### 🗄️ Database & ORM
+![Neon](https://img.shields.io/badge/-Neon-00E5A0?style=flat&logo=neon&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+
+---
+
+### 🔐 Auth
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
 
 ---
 
@@ -45,6 +58,13 @@
 ![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-10539F?style=flat&logo=pterodactyl&logoColor=white)
 ![Pelican](https://img.shields.io/badge/-Pelican-10539F?style=flat&logo=pelican&logoColor=white)
 ![OpenCore](https://img.shields.io/badge/-OpenCore-4C4C4C?style=flat&logo=apple&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+
+---
+
+### 🌐 DNS & Networking
+![AdGuard Home](https://img.shields.io/badge/-AdGuard%20Home-68BC71?style=flat&logo=adguard&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white)
 
 ---
 
@@ -77,5 +97,7 @@
 ## 📬 Contact Me
 - 💬 Discord: `! [DEV] Drayko (dev_drayko)`
 - 🌐 Website: [drayko.xyz](https://drayko.xyz)
+
 ---
+
 > "Consistency is the key to growth." 🚀

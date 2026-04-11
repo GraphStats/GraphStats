@@ -59,10 +59,12 @@
 ![Pelican](https://img.shields.io/badge/-Pelican-10539F?style=flat&logo=pelican&logoColor=white)
 ![OpenCore](https://img.shields.io/badge/-OpenCore-4C4C4C?style=flat&logo=apple&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![Unifi](https://img.shields.io/badge/-Unifi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
 
 ---
 
 ### 🌐 DNS & Networking
+![Freebox OS](https://img.shields.io/badge/-Freebox%20OS-E2001A?style=flat&logo=freebox&logoColor=white)
 ![AdGuard Home](https://img.shields.io/badge/-AdGuard%20Home-68BC71?style=flat&logo=adguard&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white)
 

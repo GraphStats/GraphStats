@@ -44,6 +44,7 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-10539F?style=flat&logo=pterodactyl&logoColor=white)
 ![Pelican](https://img.shields.io/badge/-Pelican-10539F?style=flat&logo=pelican&logoColor=white)
+![OpenCore](https://img.shields.io/badge/-OpenCore-4C4C4C?style=flat&logo=apple&logoColor=white)
 
 ---
 

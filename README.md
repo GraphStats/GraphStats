@@ -81,11 +81,11 @@
 ## 🟢 Projets Status
 
 <!-- START_STATUS_TABLE -->
-| Projet | Status |
-| --- | --- |
-| [drayko.xyz](https://drayko.xyz) | 🟢 Up |
-| [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🟢 Up |
-| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🟢 Up |
+| Projet | Status | Uptime (90d) |
+| --- | --- | --- |
+| [drayko.xyz](https://drayko.xyz) | 🔄 Checking... | - |
+| [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🔄 Checking... | - |
+| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🔄 Checking... | - |
 <!-- END_STATUS_TABLE -->
 
 ---

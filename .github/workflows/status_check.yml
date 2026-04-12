@@ -30,9 +30,9 @@ jobs:
               ('dockycalendar.drayko.xyz', 'https://dockycalendar.drayko.xyz/')
           ]
 
-          table_rows = ['| Projet | Status |', '| --- | --- |']
+          table_rows = ['| Projet | Status | Uptime (90d) |', '| --- | --- | --- |']
           for name, url in urls:
-              table_rows.append(f'| [{name}]({url}) | 🔄 Checking... |')
+              table_rows.append(f'| [{name}]({url}) | 🔄 Checking... | - |')
 
           table_content = '\n'.join(table_rows)
 
@@ -67,12 +67,30 @@ jobs:
           python -c "
           import urllib.request
           import re
+          import time
+          import os
 
           urls = [
               ('drayko.xyz', 'https://drayko.xyz'),
               ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/'),
               ('dockycalendar.drayko.xyz', 'https://dockycalendar.drayko.xyz/')
           ]
+
+          DATA_FILE = 'data.txt'
+          NINETY_DAYS = 90 * 24 * 60 * 60
+          now = int(time.time())
+
+          # Read and filter existing data
+          data_records = []
+          if os.path.exists(DATA_FILE):
+              with open(DATA_FILE, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      parts = line.strip().split(',')
+                      if len(parts) == 3:
+                          ts, name, status = parts
+                          # Only keep data newer than 90 days
+                          if now - int(ts) <= NINETY_DAYS:
+                              data_records.append((int(ts), name, int(status)))
 
           def check_url(url):
               try:
@@ -83,11 +101,33 @@ jobs:
                   print(f'Error checking {url}: {e}')
                   return False
 
-          table_rows = ['| Projet | Status |', '| --- | --- |']
+          current_status = {}
           for name, url in urls:
               is_up = check_url(url)
+              status_int = 1 if is_up else 0
+              data_records.append((now, name, status_int))
+              current_status[name] = is_up
+
+          # Write back filtered and new data
+          with open(DATA_FILE, 'w', encoding='utf-8') as f:
+              for ts, name, status in data_records:
+                  f.write(f'{ts},{name},{status}\n')
+
+          # Calculate uptime %
+          uptime_stats = {}
+          for name, url in urls:
+              service_records = [r for r in data_records if r[1] == name]
+              total = len(service_records)
+              up_count = sum(r[2] for r in service_records)
+              uptime_pct = (up_count / total * 100) if total > 0 else 0
+              uptime_stats[name] = uptime_pct
+
+          table_rows = ['| Projet | Status | Uptime (90d) |', '| --- | --- | --- |']
+          for name, url in urls:
+              is_up = current_status[name]
               status_icon = '🟢 Up' if is_up else '🔴 Down'
-              table_rows.append(f'| [{name}]({url}) | {status_icon} |')
+              pct = uptime_stats[name]
+              table_rows.append(f'| [{name}]({url}) | {status_icon} | {pct:.2f}% |')
 
           table_content = '\n'.join(table_rows)
 
@@ -107,10 +147,10 @@ jobs:
 
       - name: Commit and push final status
         run: |
-          git add README.md
+          git add README.md data.txt
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-            git commit -m "docs: update project status [skip ci]"
+            git commit -m "docs: update project status and metrics [skip ci]"
             git push
           fi

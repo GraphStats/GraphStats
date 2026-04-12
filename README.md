@@ -75,6 +75,19 @@
 - 💬 **Discord:** ddrayko (id: dev_drayko)
 - 🌐 **Website:** [drayko.xyz](https://drayko.xyz)
 
+
+---
+
+## 🟢 Projets Status
+
+<!-- START_STATUS_TABLE -->
+| Projet | Status |
+| --- | --- |
+| [drayko.xyz](https://drayko.xyz) | 🔄 Checking... |
+| [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🔄 Checking... |
+| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🔄 Checking... |
+<!-- END_STATUS_TABLE -->
+
 ---
 
 > "Consistency is the key to growth." 🚀

@@ -1,0 +1,116 @@
+name: Project Status Check
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Set Checking Status
+        run: |
+          python -c "
+          import re
+
+          urls = [
+              ('drayko.xyz', 'https://drayko.xyz'),
+              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/'),
+              ('dockycalendar.drayko.xyz', 'https://dockycalendar.drayko.xyz/')
+          ]
+
+          table_rows = ['| Projet | Status |', '| --- | --- |']
+          for name, url in urls:
+              table_rows.append(f'| [{name}]({url}) | 🔄 Checking... |')
+
+          table_content = '\n'.join(table_rows)
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          new_readme = re.sub(
+              r'<!-- START_STATUS_TABLE -->.*<!-- END_STATUS_TABLE -->',
+              f'<!-- START_STATUS_TABLE -->\n{table_content}\n<!-- END_STATUS_TABLE -->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_readme)
+          "
+
+      - name: Commit and push Checking Status
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: setting status to checking [skip ci]"
+            git push
+          fi
+
+      - name: Check status and update README
+        run: |
+          python -c "
+          import urllib.request
+          import re
+
+          urls = [
+              ('drayko.xyz', 'https://drayko.xyz'),
+              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/'),
+              ('dockycalendar.drayko.xyz', 'https://dockycalendar.drayko.xyz/')
+          ]
+
+          def check_url(url):
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  response = urllib.request.urlopen(req, timeout=10)
+                  return response.getcode() < 400
+              except Exception as e:
+                  print(f'Error checking {url}: {e}')
+                  return False
+
+          table_rows = ['| Projet | Status |', '| --- | --- |']
+          for name, url in urls:
+              is_up = check_url(url)
+              status_icon = '🟢 Up' if is_up else '🔴 Down'
+              table_rows.append(f'| [{name}]({url}) | {status_icon} |')
+
+          table_content = '\n'.join(table_rows)
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          new_readme = re.sub(
+              r'<!-- START_STATUS_TABLE -->.*<!-- END_STATUS_TABLE -->',
+              f'<!-- START_STATUS_TABLE -->\n{table_content}\n<!-- END_STATUS_TABLE -->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_readme)
+          "
+
+      - name: Commit and push final status
+        run: |
+          git add README.md
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update project status [skip ci]"
+            git push
+          fi

@@ -108,7 +108,7 @@
 ---
 
 ## 📬 Contact Me
-- 💬 Discord: `ddrayko (dev_drayko)`
+- 💬 Discord: `ddrayko (id : dev_drayko)`
 - 🌐 Website: [drayko.xyz](https://drayko.xyz)
 
 ---

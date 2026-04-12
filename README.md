@@ -31,6 +31,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
 

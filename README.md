@@ -45,7 +45,7 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-10539F?style=flat&logo=pterodactyl&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-![Unifi](https://img.shields.io/badge/-Unifi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
+![UniFi OS Server](https://img.shields.io/badge/-Unifi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
 ![OpenCore](https://img.shields.io/badge/-OpenCore-0078D7?style=flat&logo=apple&logoColor=white)
 
 **☁️ Hosting & Cloud**  

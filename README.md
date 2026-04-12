@@ -44,6 +44,7 @@
 ![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-10539F?style=flat&logo=pterodactyl&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 ![Unifi](https://img.shields.io/badge/-Unifi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
+![OpenCore](https://img.shields.io/badge/-OpenCore-0078D7?style=flat&logo=apple&logoColor=white)
 
 **☁️ Hosting & Cloud**  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)

@@ -80,7 +80,7 @@
 
 ---
 
-## Star History
+## ⭐​ Star History
 
 <a href="https://www.star-history.com/?repos=ddrayko%2FPanelZer0%2Cddrayko%2FGitPusher%2Cddrayko%2FDraykoImages%2Cddrayko%2FDraykoRedirect%2Cddrayko%2Fv6-portfolio%2Cddrayko%2FArchive-Code%2Cddrayko%2FModMail-Discord&type=date&legend=top-left">
  <picture>

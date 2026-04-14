@@ -2,14 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddrayko&label=Profile%20views&color=ff9100&style=flat" alt="Profile views" />
-</p>
-
-🎯 Passionate about coding, automation, and creative web projects.
-
----
-
 ## 🧰 Tech Stack
 
 **🎨 Frontend**  

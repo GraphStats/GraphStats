@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drayko</h1>
+![Logo](./pictoandtext.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ddrayko&label=Profile%20views&color=ff9100&style=flat" alt="Profile views" />

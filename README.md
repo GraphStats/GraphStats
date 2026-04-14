@@ -77,7 +77,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=ddrayko/PanelZer0%2Cddrayko/GitPusher%2Cddrayko/DraykoImages%2Cddrayko/DraykoRedirect%2Cddrayko/Archive-Code%2Cddrayko/ddrayko.github.io%2Cddrayko/ModMail-Discord%2Cddrayko/v6-portfolio&type=date&legend=top-left)](https://www.star-history.com/?repos=ddrayko%2FPanelZer0%2Cddrayko%2FGitPusher%2Cddrayko%2FDraykoImages%2Cddrayko%2FDraykoRedirect%2Cddrayko%2FArchive-Code%2Cddrayko%2Fddrayko.github.io%2Cddrayko%2FModMail-Discord%2Cddrayko%2Fv6-portfolio&type=date&legend=top-left)
+It's not working; I'll try again later.
 
 ---
 

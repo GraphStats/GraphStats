@@ -57,6 +57,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white)
+![Forgejo](https://img.shields.io/badge/-Forgejo-000000?style=flat&logo=forgejo&logoColor=white)
+![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)
 
 **🖥️ Operating Systems**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)

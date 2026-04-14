@@ -53,7 +53,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
 
-**🛠️ Tools & Platforms**  
+**🛠️ Git**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)

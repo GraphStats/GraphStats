@@ -139,3 +139,6 @@
 1776197004,drayko.xyz,1
 1776197004,redirect.drayko.xyz,1
 1776197004,dockycalendar.drayko.xyz,1
+1776200609,drayko.xyz,1
+1776200609,redirect.drayko.xyz,1
+1776200609,dockycalendar.drayko.xyz,1

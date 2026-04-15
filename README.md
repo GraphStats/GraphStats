@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="picto-and-text-blanc.png#gh-dark-mode-only" width="700">
-  <img src="picto-and-text-noir.png#gh-light-mode-only" width="700">
+  <img src="picto-and-text-blanc.png#gh-dark-mode-only" width="10000">
+  <img src="picto-and-text-noir.png#gh-light-mode-only" width="10000">
 </p>
 
 ---

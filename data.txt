@@ -190,3 +190,6 @@
 1776277069,drayko.xyz,1
 1776277069,redirect.drayko.xyz,1
 1776277069,dockycalendar.drayko.xyz,1
+1776282332,drayko.xyz,1
+1776282332,redirect.drayko.xyz,1
+1776282332,dockycalendar.drayko.xyz,1

@@ -199,3 +199,6 @@
 1776288491,drayko.xyz,1
 1776288491,redirect.drayko.xyz,1
 1776288491,dockycalendar.drayko.xyz,1
+1776290982,drayko.xyz,1
+1776290982,redirect.drayko.xyz,1
+1776290982,dockycalendar.drayko.xyz,1

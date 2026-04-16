@@ -1,0 +1,6 @@
+For the logo on the README files in my repositories:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddrayko/ddrayko/refs/heads/main/picto-and-text-blanc.png#gh-dark-mode-only" width="10000">
+  <img src="https://raw.githubusercontent.com/ddrayko/ddrayko/refs/heads/main/picto-and-text-noir.png#gh-light-mode-only" width="10000">
+</p>

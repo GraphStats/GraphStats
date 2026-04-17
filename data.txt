@@ -310,3 +310,6 @@
 1776456377,drayko.xyz,1
 1776456377,redirect.drayko.xyz,1
 1776456377,dockycalendar.drayko.xyz,1
+1776459579,drayko.xyz,1
+1776459579,redirect.drayko.xyz,1
+1776459579,dockycalendar.drayko.xyz,1

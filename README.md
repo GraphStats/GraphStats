@@ -48,8 +48,9 @@
 
 **☁️ Hosting & Cloud**  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=flat&logo=netlify&logoColor=white)
 ![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 **🛠️ Git**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)

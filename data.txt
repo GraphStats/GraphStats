@@ -403,3 +403,6 @@
 1776549615,drayko.xyz,1
 1776549615,redirect.drayko.xyz,1
 1776549615,dockycalendar.drayko.xyz,1
+1776552015,drayko.xyz,1
+1776552015,redirect.drayko.xyz,1
+1776552015,dockycalendar.drayko.xyz,1

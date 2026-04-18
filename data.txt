@@ -400,3 +400,6 @@
 1776547851,drayko.xyz,1
 1776547851,redirect.drayko.xyz,1
 1776547851,dockycalendar.drayko.xyz,1
+1776549615,drayko.xyz,1
+1776549615,redirect.drayko.xyz,1
+1776549615,dockycalendar.drayko.xyz,1

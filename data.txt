@@ -340,3 +340,6 @@
 1776498406,drayko.xyz,1
 1776498406,redirect.drayko.xyz,1
 1776498406,dockycalendar.drayko.xyz,1
+1776501026,drayko.xyz,1
+1776501026,redirect.drayko.xyz,1
+1776501026,dockycalendar.drayko.xyz,1

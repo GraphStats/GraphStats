@@ -343,3 +343,6 @@
 1776501026,drayko.xyz,1
 1776501026,redirect.drayko.xyz,1
 1776501026,dockycalendar.drayko.xyz,1
+1776504318,drayko.xyz,1
+1776504318,redirect.drayko.xyz,1
+1776504318,dockycalendar.drayko.xyz,1

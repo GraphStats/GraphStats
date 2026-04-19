@@ -463,3 +463,6 @@
 1776619266,drayko.xyz,1
 1776619266,redirect.drayko.xyz,1
 1776619266,dockycalendar.drayko.xyz,1
+1776621347,drayko.xyz,1
+1776621347,redirect.drayko.xyz,1
+1776621347,dockycalendar.drayko.xyz,1

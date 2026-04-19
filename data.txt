@@ -433,3 +433,6 @@
 1776593212,drayko.xyz,1
 1776593212,redirect.drayko.xyz,1
 1776593212,dockycalendar.drayko.xyz,1
+1776596198,drayko.xyz,1
+1776596198,redirect.drayko.xyz,1
+1776596198,dockycalendar.drayko.xyz,1

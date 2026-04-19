@@ -490,3 +490,6 @@
 1776639481,drayko.xyz,1
 1776639481,redirect.drayko.xyz,1
 1776639481,dockycalendar.drayko.xyz,1
+1776641702,drayko.xyz,1
+1776641702,redirect.drayko.xyz,1
+1776641702,dockycalendar.drayko.xyz,1

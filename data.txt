@@ -520,3 +520,6 @@
 1776700274,drayko.xyz,1
 1776700274,redirect.drayko.xyz,1
 1776700274,dockycalendar.drayko.xyz,1
+1776703741,drayko.xyz,1
+1776703741,redirect.drayko.xyz,1
+1776703741,dockycalendar.drayko.xyz,1

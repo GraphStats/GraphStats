@@ -592,3 +592,6 @@
 1776803812,drayko.xyz,1
 1776803812,redirect.drayko.xyz,1
 1776803812,dockycalendar.drayko.xyz,1
+1776806959,drayko.xyz,1
+1776806959,redirect.drayko.xyz,1
+1776806959,dockycalendar.drayko.xyz,1

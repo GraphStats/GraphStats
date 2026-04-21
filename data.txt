@@ -550,3 +550,6 @@
 1776730046,drayko.xyz,1
 1776730046,redirect.drayko.xyz,1
 1776730046,dockycalendar.drayko.xyz,1
+1776742937,drayko.xyz,1
+1776742937,redirect.drayko.xyz,1
+1776742937,dockycalendar.drayko.xyz,1

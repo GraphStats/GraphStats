@@ -646,3 +646,6 @@
 1776887496,drayko.xyz,1
 1776887496,redirect.drayko.xyz,1
 1776887496,dockycalendar.drayko.xyz,1
+1776890413,drayko.xyz,1
+1776890413,redirect.drayko.xyz,1
+1776890413,dockycalendar.drayko.xyz,1

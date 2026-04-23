@@ -113,9 +113,9 @@
 <!-- START_STATUS_TABLE -->
 | Projet | Status | Uptime (90d) |
 | --- | --- | --- |
-| [drayko.xyz](https://drayko.xyz) | 🟢 Up | 100.00% |
-| [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🟢 Up | 99.56% |
-| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🟢 Up | 100.00% |
+| [drayko.xyz](https://drayko.xyz) | 🔄 Checking... | - |
+| [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🔄 Checking... | - |
+| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🔄 Checking... | - |
 <!-- END_STATUS_TABLE -->
 
 ---

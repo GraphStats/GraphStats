@@ -784,3 +784,6 @@
 1777104620,drayko.xyz,1
 1777104620,redirect.drayko.xyz,1
 1777104620,dockycalendar.drayko.xyz,1
+1777108101,drayko.xyz,1
+1777108101,redirect.drayko.xyz,1
+1777108101,dockycalendar.drayko.xyz,1

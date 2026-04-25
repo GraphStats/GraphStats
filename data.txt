@@ -820,3 +820,6 @@
 1777139525,drayko.xyz,1
 1777139525,redirect.drayko.xyz,1
 1777139525,dockycalendar.drayko.xyz,1
+1777141830,drayko.xyz,1
+1777141830,redirect.drayko.xyz,1
+1777141830,dockycalendar.drayko.xyz,1

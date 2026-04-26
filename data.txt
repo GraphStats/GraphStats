@@ -880,3 +880,6 @@
 1777212670,drayko.xyz,1
 1777212670,redirect.drayko.xyz,1
 1777212670,dockycalendar.drayko.xyz,1
+1777215646,drayko.xyz,1
+1777215646,redirect.drayko.xyz,1
+1777215646,dockycalendar.drayko.xyz,1

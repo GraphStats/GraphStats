@@ -928,3 +928,6 @@
 1777270497,drayko.xyz,1
 1777270497,redirect.drayko.xyz,1
 1777270497,dockycalendar.drayko.xyz,1
+1777279285,drayko.xyz,1
+1777279285,redirect.drayko.xyz,1
+1777279285,dockycalendar.drayko.xyz,1

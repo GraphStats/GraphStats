@@ -964,3 +964,6 @@
 1777334397,drayko.xyz,1
 1777334397,redirect.drayko.xyz,1
 1777334397,dockycalendar.drayko.xyz,1
+1777347237,drayko.xyz,1
+1777347237,redirect.drayko.xyz,1
+1777347237,dockycalendar.drayko.xyz,1

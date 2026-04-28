@@ -988,3 +988,6 @@
 1777405944,drayko.xyz,1
 1777405944,redirect.drayko.xyz,1
 1777405944,dockycalendar.drayko.xyz,1
+1777409700,drayko.xyz,1
+1777409700,redirect.drayko.xyz,1
+1777409700,dockycalendar.drayko.xyz,1

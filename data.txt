@@ -970,3 +970,6 @@
 1777357143,drayko.xyz,1
 1777357143,redirect.drayko.xyz,1
 1777357143,dockycalendar.drayko.xyz,1
+1777365665,drayko.xyz,1
+1777365665,redirect.drayko.xyz,1
+1777365665,dockycalendar.drayko.xyz,1

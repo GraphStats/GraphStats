@@ -1033,3 +1033,6 @@
 1777495534,drayko.xyz,1
 1777495534,redirect.drayko.xyz,1
 1777495534,dockycalendar.drayko.xyz,1
+1777499092,drayko.xyz,1
+1777499092,redirect.drayko.xyz,1
+1777499092,dockycalendar.drayko.xyz,1

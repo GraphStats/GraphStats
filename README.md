@@ -123,7 +123,6 @@
 | --- | --- | --- |
 | [drayko.xyz](https://drayko.xyz) | 🟢 Up | 100.00% |
 | [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🟢 Up | 99.72% |
-| [dockycalendar.drayko.xyz](https://dockycalendar.drayko.xyz/) | 🟢 Up | 100.00% |
 <!-- END_STATUS_TABLE -->
 
 ---

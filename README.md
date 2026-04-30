@@ -57,7 +57,9 @@
 ![OpenCore](https://img.shields.io/badge/-OpenCore-0078D7?style=flat\&logo=apple\&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat\&logo=pi-hole\&logoColor=white)
 ![AdGuard Home](https://img.shields.io/badge/-AdGuard%20Home-66BB6A?style=flat\&logo=adguard\&logoColor=white)
+![Unbound](https://img.shields.io/badge/-Unbound-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![UFW](https://img.shields.io/badge/-UFW-CC0000?style=flat\&logo=ubuntu\&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/-Fail2Ban-FF6C37?style=flat\&logo=gnu\&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/-Uptime%20Kuma-5CDD8B?style=flat\&logo=uptime-kuma\&logoColor=white)
 
 **☁️ Hosting & Cloud**

@@ -125,7 +125,3 @@
 | [redirect.drayko.xyz](https://redirect.drayko.xyz/) | 🟢 Up | 99.72% |
 | [tbxm.drayko.xyz](https://tbxm.drayko.xyz/) | 🟢 Up | 100.00% |
 <!-- END_STATUS_TABLE -->
-
----
-
-> "Consistency is the key to growth." 🚀

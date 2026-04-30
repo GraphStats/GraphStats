@@ -28,7 +28,8 @@ jobs:
 
           urls = [
               ('drayko.xyz', 'https://drayko.xyz'),
-              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/')
+              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/'),
+              ('tbxm.drayko.xyz', 'https://tbxm.drayko.xyz/')
           ]
 
           table_rows = ['| Projet | Status | Uptime (90d) |', '| --- | --- | --- |']
@@ -89,7 +90,8 @@ jobs:
 
           urls = [
               ('drayko.xyz', 'https://drayko.xyz'),
-              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/')
+              ('redirect.drayko.xyz', 'https://redirect.drayko.xyz/'),
+              ('tbxm.drayko.xyz', 'https://tbxm.drayko.xyz/')
           ]
 
           DATA_FILE = 'data.txt'

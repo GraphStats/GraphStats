@@ -1083,3 +1083,6 @@
 1777586994,dockycalendar.drayko.xyz,1
 1777589421,drayko.xyz,1
 1777589421,redirect.drayko.xyz,1
+1777589520,drayko.xyz,1
+1777589520,redirect.drayko.xyz,1
+1777589520,tbxm.drayko.xyz,1

@@ -1200,3 +1200,6 @@
 1777755822,drayko.xyz,1
 1777755822,redirect.drayko.xyz,1
 1777755822,tbxm.drayko.xyz,1
+1777758839,drayko.xyz,1
+1777758839,redirect.drayko.xyz,1
+1777758839,tbxm.drayko.xyz,1

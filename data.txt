@@ -1350,3 +1350,6 @@
 1778015640,drayko.xyz,1
 1778015640,redirect.drayko.xyz,1
 1778015640,tbxm.drayko.xyz,1
+1778019178,drayko.xyz,1
+1778019178,redirect.drayko.xyz,1
+1778019178,tbxm.drayko.xyz,1
